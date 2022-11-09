@@ -1,19 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Testing practice
 
-> Description the project.
+> Here is about writing few practical tests for JavaScript functions using the Jest library.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- Jest library
 
-## Live Demo (if available)
+## Live Demo (No live demon yet)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]()
 
 
 ## Getting Started
@@ -27,9 +26,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Setup
-
+- npm init
 ### Install
-
+- npm install
 ### Usage
 
 ### Run tests
@@ -40,17 +39,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Sammy Ndabo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ndaboom](https://github.com/ndaboom)
+- Twitter: [@ndabosammy](https://twitter.com/ndabosammy)
+- LinkedIn: [Sam Ndabo](https://linkedin.com/in/sam-ndabo-b0431b17b)
 
 ## 🤝 Contributing
 
