@@ -1,8 +1,9 @@
-function stringLenght(string) {
-  if(string.length === 1 && string.length <= 10) {
-    return string.length; 
+function stringLength(string) {
+  let arrStr = string.split("");
+  if(arrStr.length > 0 && arrStr.length <= 10) {
+    return arrStr.length; 
   }
-  throw new Error('The number of characters requested is not fulfilled');
+  throw 'The number of characters requested is not fulfilled';
 }
 
 function reverseString(string) {
@@ -32,3 +33,9 @@ class calculator {
     return this.nbr1 / this.nbr2;
   }
 }
+
+function capitalizeFirtCharacter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+module.exports = {stringLength, reverseString, calculator, capitalizeFirtCharacter};
